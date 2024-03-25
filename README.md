@@ -18,4 +18,4 @@ Example:
 ./gen.sh -d abc.com -e f1.l1@abc.com -s 1 -f "Firstname1 Lastname1"
 ./gen.sh -d abc.com -e f2.l2@abc.com -s 2 -f "Firstname2 Lastname2"
 ```
-Then copy the created p12-file to you phone and install the certificate.
+Then copy the created p12-file to your phone and install the certificate.
