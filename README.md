@@ -1,0 +1,1 @@
+Run ./gen_ca.sh to create CA and then ./gen.sh to create individual keys
